@@ -5,4 +5,4 @@ A basic DRP for unity
 # __Feechjurs__
 - Has an updater
 - Has a readme asset
-- Has a main controller~
+- Has a main controller
