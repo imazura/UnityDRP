@@ -6,3 +6,4 @@ A basic DRP for unity
 - Has an updater
 - Has a readme asset
 - Has a main controller
+- Editor UIs
