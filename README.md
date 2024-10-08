@@ -1,5 +1,5 @@
-# Unity-DRP by CookingFluor
-*and LiterallySolar for emotional support :3*
+# Unity-DRP by ImAzura
+*and Solar for emotional support :3*
 A basic DRP for unity
 
 # __Feechjurs__
