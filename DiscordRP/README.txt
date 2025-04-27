@@ -1,0 +1,3 @@
+Look inside of the prefabs folder for some set up gameobjects ready to go, just don't forget to change the details of the script in the editor tab.
+
+Also: Remember to place your DiscordController prefab in first scene that opens when you launch, as it will be placed in the "Do not Destroy" scene, and place the RPUpdater prefab in any scenes where you need to update teh RP, thanks for downloading and enjoy!
